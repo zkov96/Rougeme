@@ -1,0 +1,6 @@
+*.csproj
+*.sln
+.idea/
+Library/
+Logs/
+UserSettings/
